@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.117087
+#+DATE: 2015-08-30 20:03:58.090860
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_002-0047c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大般涅槃經疏卷第二¶
+大般涅槃經疏卷第二¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 序品下
-:END:
-¶
+序品下¶
 
 三人中之龍去明位。人中龍者出方便位。位¶
 階十地者住真實位。安住不動者本際常寂。¶
@@ -110,7 +106,7 @@
 分佛。初住初地能百界作佛即少分佛。二住¶
 二地已上是多分佛。妙覺是滿分佛。以是義¶
 故。一一法門皆有權實本迹。即此義也。問蛣¶
-𧏙蝮蠆義復云何。答夫一善法即有四分。例¶
+[蜣-儿+(鬼-((白-日)/田))]蝮蠆義復云何。答夫一善法即有四分。例¶
 一惡法亦應如是。未見名教置而不論。且就¶
 權者言之。小菩薩所作是無分。蝮蠆初地初¶
 住所作是少分。乃至十地十住等所作是多¶

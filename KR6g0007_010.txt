@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.363350
+#+DATE: 2015-08-30 20:03:58.338769
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_010-0093c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 大般涅槃經疏卷第十¶
+大般涅槃經疏卷第十¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-8四依品(一○)
-:PROPERTIES:
-:head: 四依品
-:END:
-¶
+四依品¶
 
 四者數也。依者憑也。一切世間憑之得益故¶
 言四依。憑有二種。一憑自法取益。二憑他取¶

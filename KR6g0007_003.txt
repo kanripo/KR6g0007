@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.147729
+#+DATE: 2015-08-30 20:03:58.114504
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_003-0052c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 大般涅槃經疏卷第三¶
+大般涅槃經疏卷第三¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-2純陀品(三-五)
-:PROPERTIES:
-:head: 純陀品上
-:END:
-¶
+純陀品上¶
 
 釋品為三。一辨疏密。二辨德行。三釋名。初意¶
 者依天竺文猶屬壽命品。開破今昔常無常¶
@@ -171,7 +166,7 @@
 願得無上報。故非分果為令眾生得佛菩提¶
 究竟之果。次捨身威儀下。敘敬儀威儀不同。¶
 謂俗威儀。道威儀。法門威儀。佛威儀。如波斯¶
-匿王見諸佛時捨五威儀。冠劍𤧑履車餘雖¶
+匿王見諸佛時捨五威儀。冠劍[王*風]履車餘雖¶
 無五亦有脫巾解帶徒行等。皆俗威儀。道威¶
 儀者。謂偏袒單縫天冠天衣法式規矩等。法¶
 門威儀者。謂生忍法忍等諸法門也。佛威儀¶

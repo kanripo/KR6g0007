@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.972408
+#+DATE: 2015-08-30 20:03:58.977205
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_032-0219a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 32
 ¶
 ¶
-
- 大般涅槃經疏卷第三十二¶
+大般涅槃經疏卷第三十二¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-25憍陳如品(三二-三三)
-:PROPERTIES:
-:head: 憍陳如品之一
-:END:
-¶
+憍陳如品之一¶
 
 憍陳如翻火器。姓也。阿若翻無知。名也。其義¶
 甚多。且出四意。在先得道是最初上座。左面¶
@@ -201,10 +196,7 @@
 後用凡夫分別故見有境智之二。聖忘境智¶
 皆是一真故言聖一。四印。五歸。如文。¶
 
-:PROPERTIES:
-:head: 陳如品之一
-:END:
-¶
+陳如品之一¶
 
 六許。佛告陳如聽其出家者。陳如是最後付¶
 囑。汝既上座須知僧事。得羅漢果者。若依開¶
@@ -487,6 +479,6 @@
 理。林主修治者。即修持人。其樹陳朽皮膚悉¶
 脫者。譬煩惱諸惡一切都盡。唯真實在即是¶
 萬德。¶
-大般涅槃經疏卷第三十二
+大般涅槃經疏卷第三十一
 <pb:KR6g0007_T_032-0224b>¶
 

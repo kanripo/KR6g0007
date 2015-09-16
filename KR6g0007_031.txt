@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.944439
+#+DATE: 2015-08-30 20:03:58.942944
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_031-0212a> ¶¶¶¶¶
 #+PROPERTY: JUAN 31
 ¶
 ¶
-
- 大般涅槃經疏卷第三十一¶
+大般涅槃經疏卷第三十一¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 迦葉品之四
-:END:
-¶
+迦葉品之四¶
 
 迦葉白下。第二明異虛空義。又兩番問答。此¶
 初番問者。正言佛性涅槃虛空等並非三世。¶
@@ -283,10 +279,7 @@
 <pb:KR6g0007_T_031-0215a>¶
 第四結觀智。¶
 
-:PROPERTIES:
-:head: 迦葉品之五
-:END:
-¶
+迦葉品之五¶
 
 起卷是第三單明生善兩番問答。初為三。一¶
 緣起。二正問。三結問。緣起中法譬合(云云)。若¶

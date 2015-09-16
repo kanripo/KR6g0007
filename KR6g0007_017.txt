@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.555117
+#+DATE: 2015-08-30 20:03:58.535055
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_017-0136c> ¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 大般涅槃經疏卷第十七¶
+大般涅槃經疏卷第十七¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-20梵行品(一七-一九)
-:PROPERTIES:
-:head: 梵行品
-:END:
-¶
+梵行品¶
 
 諸師。謂梵行四心為體。聖行三品為體。引經¶
 云。說四無量是梵天道名轉梵輪。說四諦是¶
@@ -380,10 +375,7 @@
 歎圓慈。是大乘典即是歎教。皆不思議俱會¶
 一圓。言語道斷心行處滅。不可說不可量。¶
 
-:PROPERTIES:
-:head: 梵行品之二
-:END:
-¶
+梵行品之二¶
 
 起卷。是第二明四心果。又為二。初明三心極¶
 愛地果。次明捨心空平等地果。舊二解。一云。¶
