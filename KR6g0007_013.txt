@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.456901
+#+DATE: 2015-08-30 20:03:56.860669
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_013-0118a> 
 #+PROPERTY: JUAN 13
 ¶
-
- 大般涅槃經疏卷第十三¶
+大般涅槃經疏卷第十三¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-17一切大眾所問品(一三)
-:PROPERTIES:
-:head: 一切大眾所問品
-:END:
-¶
+一切大眾所問品¶
 
 六卷稱隨喜品。古本稱憂悲歎頌品。六卷取¶
 迦葉見純陀修成菩薩道我亦隨喜。古本取¶
@@ -206,11 +201,7 @@
 也。背痛者出大智論。昔鹿王為後來跛兔忍¶
 死待之。今佛為須跋故背痛也。¶
 
-18現病品(一三)
-:PROPERTIES:
-:head: 現病品
-:END:
-¶
+現病品¶
 
 莊嚴名第二周。梁武稱中後。開善答離一切¶
 病。興皇兩存。前雖答竟何妨更說。後雖更說¶
@@ -348,11 +339,7 @@
 有佛世。或出無佛世。故非獨一之行。辟支決¶
 定出無佛世。故名獨一之行。¶
 
-19聖行品(一三-一六)
-:PROPERTIES:
-:head: 聖行品上
-:END:
-¶
+聖行品上¶
 
 次第釋名枝本說不說。次第者河西明。前略¶
 廣門說涅槃果。五行修涅槃因。十德聚功獎¶

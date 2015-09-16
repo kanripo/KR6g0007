@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.787431
+#+DATE: 2015-08-30 20:03:57.209129
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_025-0181b> 
 #+PROPERTY: JUAN 25
 ¶
-
- 大般涅槃經疏卷第二十五¶
+大般涅槃經疏卷第二十五¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 師子吼品之二
-:END:
-¶
+師子吼品之二¶
 
 起卷是第二勸修。初勸修後論義。上云十住¶
 聞見至佛眼見。若欲聞見眼見。應當受持十¶

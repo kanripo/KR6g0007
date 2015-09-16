@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.178254
+#+DATE: 2015-08-30 20:03:56.594737
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_004-0057c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 大般涅槃經疏卷第四¶
+大般涅槃經疏卷第四¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 純陀品中
-:END:
-¶
+純陀品中¶
 
 二何以故去即釋施也。釋初釋後中間可知。¶
 此意非但後教開常開初亦爾。既舉諸教例¶
