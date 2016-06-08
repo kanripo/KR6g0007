@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.393692
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_011-0099c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 大般涅槃經疏卷第十一¶
+大般涅槃經疏卷第十一¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-9邪正品(一一)
-:PROPERTIES:
-:head: 邪正品
-:END:
-¶
+* 邪正品¶
 
 邪者魔也。正者聖也。邪魔多種。謂邪惡邪俗¶
 邪偏邪漸。邪惡者闡提謗法四重五逆十惡¶
@@ -115,11 +110,7 @@
 大赤則遮如乾陀。輕赤此則不遮(云云)。迦葉白¶
 佛去。第四是領解。第五述成。¶
 
-10四諦品(一一)
-:PROPERTIES:
-:head: 四諦品
-:END:
-¶
+* 四諦品¶
 
 此品。答上云何諸調御心喜說真諦。舊云佛¶
 昔隨情但說有量四諦。止在界內聖心不暢。¶
@@ -183,11 +174,7 @@
 者。道滅是四諦之後當於第四。迦葉白佛去¶
 二是領解。¶
 
-11四倒品(一一)
-:PROPERTIES:
-:head: 四倒品
-:END:
-¶
+* 四倒品¶
 
 倒者惑也。上云醉人眩亂日月迴轉。況顯惑¶
 義但倒數不定。或一二三四八乃至眾多。一¶
@@ -226,11 +213,7 @@
 述迷。別論取撥無因果名邪見。迦葉久無通¶
 取一切倒心為邪。迦葉猶有(云云)。¶
 
-12如來性品(一一)
-:PROPERTIES:
-:head: 如來性品
-:END:
-¶
+* 如來性品¶
 
 此題。不標佛而言如來者。允同三世。三世諸¶
 佛皆初號如來。又舉初以標後。又如名不異

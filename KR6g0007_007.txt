@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.269417
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_007-0074c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 大般涅槃經疏卷第七¶
+大般涅槃經疏卷第七¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-4長壽品(七-八)
-:PROPERTIES:
-:head: 長壽品
-:END:
-¶
+* 長壽品¶
 
 前之三品嚴觀所安。此品存本但改命為長。¶
 移壽在下西方語倒不移亦善。譯人左右應¶
@@ -479,7 +474,7 @@
 菴羅寺主恒得好食。居士後時遇優波斯那¶
 於舍供養不與寺主。相知欝多羅生瞋語居¶
 士言。飲食雖美但無胡麻歡喜丸耳。此居士¶
-少年貧時曾為此業故以刺之。居士因即說
+少年貧時曾為此業故以剌之。居士因即說
 <pb:KR6g0007_T_007-0080a>¶
 譬如鷄與烏共生一子。或作鷄鳴或作烏聲。¶
 汝或善語或作惡語。而此比丘父母異國故¶

@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.888330
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_029-0203a> 
 #+PROPERTY: JUAN 29
 ¶
-
- 大般涅槃經疏卷第二十九¶
+大般涅槃經疏卷第二十九¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 迦葉品之二
-:END:
-¶
+* 迦葉品之二¶
 
 起卷詶其第三結問。如來善知根性。何故作¶
 不定說使其爭論。文為二。初歎理深。次簡疑¶

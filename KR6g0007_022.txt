@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.702838
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_022-0164c> 
 #+PROPERTY: JUAN 22
 ¶
-
- 大般涅槃經疏卷第二十二¶
+大般涅槃經疏卷第二十二¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 德王品
-:END:
-¶
+* 德王品¶
 
 復次下。二明知宿命又二。初正明宿命。次念¶
 過去。簡異準前可知。略不具說也。復次云何¶
@@ -242,10 +238,7 @@
 三。初不定譬無相。次不平價譬無苦。後離苦¶
 毒譬無畏。結如文。¶
 
-:PROPERTIES:
-:head: 德王品之五
-:END:
-¶
+* 德王品之五¶
 
 起卷明第七功德。開善。用此下兩功德。為第¶
 二周。由近善友初聞正法。於位則淺。下第八¶

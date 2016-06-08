@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.758447
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_024-0176a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 大般涅槃經疏卷第二十四¶
+大般涅槃經疏卷第二十四¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 師子吼品之一下
-:END:
-¶
+* 師子吼品之一下¶
 
 復次善男子下。二別舉遍義應遍一切。別舉¶
 四種遍有中道。一顛倒上下。二生死。三斷常。¶

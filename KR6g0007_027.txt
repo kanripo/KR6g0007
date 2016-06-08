@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.836038
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_027-0191a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
-
- 大般涅槃經疏卷第二十七¶
+大般涅槃經疏卷第二十七¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 師子吼品之五
-:END:
-¶
+* 師子吼品之五¶
 
 起卷是第二明定慧相資。亦是相即亦應言¶
 捨。但是略耳。又捨無別法。定慧均平即名為¶
@@ -299,10 +295,7 @@
 <pb:KR6g0007_T_027-0194b>¶
 云何轉重為輕。答如文。¶
 
-:PROPERTIES:
-:head: 師子吼品之六
-:END:
-¶
+* 師子吼品之六¶
 
 起卷第四勸修文為二。一舉法勸。二舉人勸。¶
 初舉法中先問次答。問為三。一問佛性力故¶

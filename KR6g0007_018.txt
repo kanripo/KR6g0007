@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.581066
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_018-0142b> 
 #+PROPERTY: JUAN 18
 ¶
-
- 大般涅槃經疏卷第十八¶
+大般涅槃經疏卷第十八¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 梵行品二之餘
-:END:
-¶
+* 梵行品二之餘¶
 
 問第一義空何得有業有報。答此寄有以明¶
 無。寄無以明有。不有不無即第一義。空空者¶
@@ -174,10 +170,7 @@
 似是相貌了了即真。真又為二。一菩薩了了。¶
 二如來了了。此下盡卷是會通兩章如文。¶
 
-:PROPERTIES:
-:head: 梵行品之三
-:END:
-¶
+* 梵行品之三¶
 
 起卷。是第二論義有問答。問為二。一問同世¶
 間。二問異世不知。答為二。先正答。次結。初¶

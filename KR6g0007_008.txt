@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.299729
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_008-0080c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 大般涅槃經疏卷第八¶
+大般涅槃經疏卷第八¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 長壽品下
-:END:
-¶
+* 長壽品下¶
 
 迦葉復白去。是第四番問答。先問次答。初問¶
 又三。初非佛旨。次譬釋非。三合譬結過。初非¶
@@ -160,11 +156,7 @@
 中有影肉眼不見。如來常為作依。薄福不見¶
 而言非依。¶
 
-5金剛身品(八)
-:PROPERTIES:
-:head: 金剛身品
-:END:
-¶
+* 金剛身品¶
 
 金剛能譬。身是所譬。金剛四義。一紫磨金精¶
 世界基本。二其體堅牢無能侵毀。三其用勁¶
@@ -448,11 +440,7 @@
 除弟子惡邪。弟子既無衣食勢力。即欲越濟¶
 應為除其惡邪。餘兩五法不論(云云)。¶
 
-6名字功德品(八)
-:PROPERTIES:
-:head: 名字功德品
-:END:
-¶
+* 名字功德品¶
 
 夫世間名字有同有異。同者俱是體上之稱。¶
 異者名召於體。字歎其德佛法亦爾。隨順世¶

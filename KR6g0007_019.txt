@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.616427
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1767
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0007_T_000-0041c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0007_T_019-0147c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 大般涅槃經疏卷第十九¶
+大般涅槃經疏卷第十九¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-:PROPERTIES:
-:head: 梵行品之四
-:END:
-¶
+* 梵行品之四¶
 
 起卷。是第二歎經滅惡之能。惡即闡提四重¶
 五逆皆能滅之。舊解闍王是實逆。經力能滅¶
@@ -136,10 +132,7 @@
 雖殺不死是故能勸。二云非是本父乃是諸¶
 聖託為父言。¶
 
-:PROPERTIES:
-:head: 梵行品之五
-:END:
-¶
+* 梵行品之五¶
 
 起卷。是第三正明滅罪。又二。前為住世後¶
 為滅罪。前文又二。一為住世。二論義。論義中¶
@@ -422,11 +415,7 @@
 記成佛名惟首陀惟沙耶。此言淨其所朗。三¶
 辭退如文。天行縣指雜華。¶
 
-21嬰兒行品(一九)
-:PROPERTIES:
-:head: 嬰兒行品
-:END:
-¶
+* 嬰兒行品¶
 
 此是第三明嬰兒行。有師言。借譬得名。權智¶
 為體化物為用。今明涅槃非大小亦得論大¶
