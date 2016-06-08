@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.644853
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
@@ -18,7 +18,8 @@
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-22德王品(二○-二三)
+* 22德王品(二〇-二三)
+** 1
 :PROPERTIES:
 :head: 德王品
 :END:

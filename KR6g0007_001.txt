@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.081365
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
@@ -14,7 +14,7 @@
 ¶
 No.1767[cf.Nos.375,1765,1766]¶
 
-科南本涅槃經序
+* 科南本涅槃經序
 :PROPERTIES:
 :head: 科南本涅槃經序
 :END:
@@ -59,7 +59,8 @@ No.1767[cf.Nos.375,1765,1766]¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
 
-1序品(一-二)
+* 1序品(一-二)
+** 1
 :PROPERTIES:
 :head: 序品上
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:55.996141
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經疏
 #+PROPERTY: CBETA_ID T38n1767
 #+PROPERTY: ID KR6g0007
@@ -12,7 +12,8 @@
 #+PROPERTY: JUAN 33
 ¶
 
- 大般涅槃經疏卷第三十三¶
+ 
+** 2大般涅槃經疏卷第三十三¶
 ¶
 隋章安頂法師撰¶
 唐天台沙門湛然再治¶
